@@ -1,0 +1,1839 @@
+{
+    "RECORDS": [
+        {
+            "CODE": "1100",
+            "DESCRIPTION": "北京市",
+            "EXT1": "北京市"
+        },
+        {
+            "CODE": "1200",
+            "DESCRIPTION": "天津市",
+            "EXT1": "天津市"
+        },
+        {
+            "CODE": "1300",
+            "DESCRIPTION": "河北省",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1301",
+            "DESCRIPTION": "石家庄市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1302",
+            "DESCRIPTION": "唐山市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1303",
+            "DESCRIPTION": "秦皇岛市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1304",
+            "DESCRIPTION": "邯郸市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1305",
+            "DESCRIPTION": "邢台市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1306",
+            "DESCRIPTION": "保定市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1307",
+            "DESCRIPTION": "张家口市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1308",
+            "DESCRIPTION": "承德市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1309",
+            "DESCRIPTION": "沧州市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1310",
+            "DESCRIPTION": "廊坊市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1311",
+            "DESCRIPTION": "衡水市",
+            "EXT1": "河北省"
+        },
+        {
+            "CODE": "1400",
+            "DESCRIPTION": "山西省",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1401",
+            "DESCRIPTION": "太原市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1402",
+            "DESCRIPTION": "大同市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1403",
+            "DESCRIPTION": "阳泉市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1404",
+            "DESCRIPTION": "长治市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1405",
+            "DESCRIPTION": "晋城市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1406",
+            "DESCRIPTION": "朔州市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1407",
+            "DESCRIPTION": "晋中市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1408",
+            "DESCRIPTION": "运城市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1409",
+            "DESCRIPTION": "忻州市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1410",
+            "DESCRIPTION": "临汾市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1411",
+            "DESCRIPTION": "吕梁市",
+            "EXT1": "山西省"
+        },
+        {
+            "CODE": "1500",
+            "DESCRIPTION": "内蒙古自治区",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1501",
+            "DESCRIPTION": "呼和浩特市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1502",
+            "DESCRIPTION": "包头市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1503",
+            "DESCRIPTION": "乌海市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1504",
+            "DESCRIPTION": "赤峰市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1505",
+            "DESCRIPTION": "通辽市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1506",
+            "DESCRIPTION": "鄂尔多斯市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1507",
+            "DESCRIPTION": "呼伦贝尔市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1508",
+            "DESCRIPTION": "巴彦淖尔市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1509",
+            "DESCRIPTION": "乌兰察布市",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1522",
+            "DESCRIPTION": "兴安盟",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1525",
+            "DESCRIPTION": "锡林郭勒盟",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "1529",
+            "DESCRIPTION": "阿拉善盟",
+            "EXT1": "内蒙古自治区"
+        },
+        {
+            "CODE": "2100",
+            "DESCRIPTION": "辽宁省",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2101",
+            "DESCRIPTION": "沈阳市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2102",
+            "DESCRIPTION": "大连市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2103",
+            "DESCRIPTION": "鞍山市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2104",
+            "DESCRIPTION": "抚顺市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2105",
+            "DESCRIPTION": "本溪市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2106",
+            "DESCRIPTION": "丹东市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2107",
+            "DESCRIPTION": "锦州市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2108",
+            "DESCRIPTION": "营口市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2109",
+            "DESCRIPTION": "阜新市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2110",
+            "DESCRIPTION": "辽阳市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2111",
+            "DESCRIPTION": "盘锦市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2112",
+            "DESCRIPTION": "铁岭市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2113",
+            "DESCRIPTION": "朝阳市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2114",
+            "DESCRIPTION": "葫芦岛市",
+            "EXT1": "辽宁省"
+        },
+        {
+            "CODE": "2200",
+            "DESCRIPTION": "吉林省",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2201",
+            "DESCRIPTION": "长春市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2202",
+            "DESCRIPTION": "吉林市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2203",
+            "DESCRIPTION": "四平市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2204",
+            "DESCRIPTION": "辽源市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2205",
+            "DESCRIPTION": "通化市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2206",
+            "DESCRIPTION": "白山市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2207",
+            "DESCRIPTION": "松原市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2208",
+            "DESCRIPTION": "白城市",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2224",
+            "DESCRIPTION": "延边朝鲜族自治州",
+            "EXT1": "吉林省"
+        },
+        {
+            "CODE": "2300",
+            "DESCRIPTION": "黑龙江省",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2301",
+            "DESCRIPTION": "哈尔滨市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2302",
+            "DESCRIPTION": "齐齐哈尔市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2303",
+            "DESCRIPTION": "鸡西市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2304",
+            "DESCRIPTION": "鹤岗市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2305",
+            "DESCRIPTION": "双鸭山市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2306",
+            "DESCRIPTION": "大庆市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2307",
+            "DESCRIPTION": "伊春市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2308",
+            "DESCRIPTION": "佳木斯市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2309",
+            "DESCRIPTION": "七台河市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2310",
+            "DESCRIPTION": "牡丹江市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2311",
+            "DESCRIPTION": "黑河市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2312",
+            "DESCRIPTION": "绥化市",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "2327",
+            "DESCRIPTION": "大兴安岭地区",
+            "EXT1": "黑龙江省"
+        },
+        {
+            "CODE": "3100",
+            "DESCRIPTION": "上海市",
+            "EXT1": "上海市"
+        },
+        {
+            "CODE": "3200",
+            "DESCRIPTION": "江苏省",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3201",
+            "DESCRIPTION": "南京市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3202",
+            "DESCRIPTION": "无锡市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3203",
+            "DESCRIPTION": "徐州市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3204",
+            "DESCRIPTION": "常州市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3205",
+            "DESCRIPTION": "苏州市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3206",
+            "DESCRIPTION": "南通市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3207",
+            "DESCRIPTION": "连云港市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3208",
+            "DESCRIPTION": "淮安市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3209",
+            "DESCRIPTION": "盐城市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3210",
+            "DESCRIPTION": "扬州市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3211",
+            "DESCRIPTION": "镇江市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3212",
+            "DESCRIPTION": "泰州市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3213",
+            "DESCRIPTION": "宿迁市",
+            "EXT1": "江苏省"
+        },
+        {
+            "CODE": "3300",
+            "DESCRIPTION": "浙江省",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3301",
+            "DESCRIPTION": "杭州市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3302",
+            "DESCRIPTION": "宁波市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3303",
+            "DESCRIPTION": "温州市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3304",
+            "DESCRIPTION": "嘉兴市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3305",
+            "DESCRIPTION": "湖州市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3306",
+            "DESCRIPTION": "绍兴市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3307",
+            "DESCRIPTION": "金华市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3308",
+            "DESCRIPTION": "衢州市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3309",
+            "DESCRIPTION": "舟山市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3310",
+            "DESCRIPTION": "台州市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3311",
+            "DESCRIPTION": "丽水市",
+            "EXT1": "浙江省"
+        },
+        {
+            "CODE": "3400",
+            "DESCRIPTION": "安徽省",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3401",
+            "DESCRIPTION": "合肥市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3402",
+            "DESCRIPTION": "芜湖市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3403",
+            "DESCRIPTION": "蚌埠市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3404",
+            "DESCRIPTION": "淮南市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3405",
+            "DESCRIPTION": "马鞍山市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3406",
+            "DESCRIPTION": "淮北市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3407",
+            "DESCRIPTION": "铜陵市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3408",
+            "DESCRIPTION": "安庆市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3410",
+            "DESCRIPTION": "黄山市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3411",
+            "DESCRIPTION": "滁州市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3412",
+            "DESCRIPTION": "阜阳市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3413",
+            "DESCRIPTION": "宿州市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3414",
+            "DESCRIPTION": "巢湖市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3415",
+            "DESCRIPTION": "六安市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3416",
+            "DESCRIPTION": "亳州市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3417",
+            "DESCRIPTION": "池州市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3418",
+            "DESCRIPTION": "宣城市",
+            "EXT1": "安徽省"
+        },
+        {
+            "CODE": "3500",
+            "DESCRIPTION": "福建省",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3501",
+            "DESCRIPTION": "福州市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3502",
+            "DESCRIPTION": "厦门市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3503",
+            "DESCRIPTION": "莆田市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3504",
+            "DESCRIPTION": "三明市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3505",
+            "DESCRIPTION": "泉州市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3506",
+            "DESCRIPTION": "漳州市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3507",
+            "DESCRIPTION": "南平市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3508",
+            "DESCRIPTION": "龙岩市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3509",
+            "DESCRIPTION": "宁德市",
+            "EXT1": "福建省"
+        },
+        {
+            "CODE": "3600",
+            "DESCRIPTION": "江西省",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3601",
+            "DESCRIPTION": "南昌市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3602",
+            "DESCRIPTION": "景德镇市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3603",
+            "DESCRIPTION": "萍乡市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3604",
+            "DESCRIPTION": "九江市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3605",
+            "DESCRIPTION": "新余市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3606",
+            "DESCRIPTION": "鹰潭市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3607",
+            "DESCRIPTION": "赣州市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3608",
+            "DESCRIPTION": "吉安市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3609",
+            "DESCRIPTION": "宜春市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3610",
+            "DESCRIPTION": "抚州市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3611",
+            "DESCRIPTION": "上饶市",
+            "EXT1": "江西省"
+        },
+        {
+            "CODE": "3700",
+            "DESCRIPTION": "山东省",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3701",
+            "DESCRIPTION": "济南市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3702",
+            "DESCRIPTION": "青岛市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3703",
+            "DESCRIPTION": "淄博市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3704",
+            "DESCRIPTION": "枣庄市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3705",
+            "DESCRIPTION": "东营市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3706",
+            "DESCRIPTION": "烟台市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3707",
+            "DESCRIPTION": "潍坊市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3708",
+            "DESCRIPTION": "济宁市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3709",
+            "DESCRIPTION": "泰安市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3710",
+            "DESCRIPTION": "威海市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3711",
+            "DESCRIPTION": "日照市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3712",
+            "DESCRIPTION": "莱芜市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3713",
+            "DESCRIPTION": "临沂市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3714",
+            "DESCRIPTION": "德州市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3715",
+            "DESCRIPTION": "聊城市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3716",
+            "DESCRIPTION": "滨州市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "3717",
+            "DESCRIPTION": "菏泽市",
+            "EXT1": "山东省"
+        },
+        {
+            "CODE": "4100",
+            "DESCRIPTION": "河南省",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4101",
+            "DESCRIPTION": "郑州市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4102",
+            "DESCRIPTION": "开封市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4103",
+            "DESCRIPTION": "洛阳市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4104",
+            "DESCRIPTION": "平顶山市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4105",
+            "DESCRIPTION": "安阳市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4106",
+            "DESCRIPTION": "鹤壁市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4107",
+            "DESCRIPTION": "新乡市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4108",
+            "DESCRIPTION": "焦作市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4109",
+            "DESCRIPTION": "濮阳市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4110",
+            "DESCRIPTION": "许昌市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4111",
+            "DESCRIPTION": "漯河市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4112",
+            "DESCRIPTION": "三门峡市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4113",
+            "DESCRIPTION": "南阳市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4114",
+            "DESCRIPTION": "商丘市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4115",
+            "DESCRIPTION": "信阳市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4116",
+            "DESCRIPTION": "周口市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4117",
+            "DESCRIPTION": "驻马店市",
+            "EXT1": "河南省"
+        },
+        {
+            "CODE": "4200",
+            "DESCRIPTION": "湖北省",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4201",
+            "DESCRIPTION": "武汉市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4202",
+            "DESCRIPTION": "黄石市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4203",
+            "DESCRIPTION": "十堰市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4205",
+            "DESCRIPTION": "宜昌市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4206",
+            "DESCRIPTION": "襄阳市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4207",
+            "DESCRIPTION": "鄂州市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4208",
+            "DESCRIPTION": "荆门市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4209",
+            "DESCRIPTION": "孝感市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4210",
+            "DESCRIPTION": "荆州市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4211",
+            "DESCRIPTION": "黄冈市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4212",
+            "DESCRIPTION": "咸宁市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4213",
+            "DESCRIPTION": "随州市",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4228",
+            "DESCRIPTION": "恩施土家族苗族自治州",
+            "EXT1": "湖北省"
+        },
+        {
+            "CODE": "4300",
+            "DESCRIPTION": "湖南省",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4301",
+            "DESCRIPTION": "长沙市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4302",
+            "DESCRIPTION": "株洲市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4303",
+            "DESCRIPTION": "湘潭市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4304",
+            "DESCRIPTION": "衡阳市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4305",
+            "DESCRIPTION": "邵阳市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4306",
+            "DESCRIPTION": "岳阳市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4307",
+            "DESCRIPTION": "常德市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4308",
+            "DESCRIPTION": "张家界市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4309",
+            "DESCRIPTION": "益阳市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4310",
+            "DESCRIPTION": "郴州市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4311",
+            "DESCRIPTION": "永州市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4312",
+            "DESCRIPTION": "怀化市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4313",
+            "DESCRIPTION": "娄底市",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4331",
+            "DESCRIPTION": "湘西土家族苗族自治州",
+            "EXT1": "湖南省"
+        },
+        {
+            "CODE": "4400",
+            "DESCRIPTION": "广东省",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4401",
+            "DESCRIPTION": "广州市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4402",
+            "DESCRIPTION": "韶关市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4403",
+            "DESCRIPTION": "深圳市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4404",
+            "DESCRIPTION": "珠海市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4405",
+            "DESCRIPTION": "汕头市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4406",
+            "DESCRIPTION": "佛山市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4407",
+            "DESCRIPTION": "江门市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4408",
+            "DESCRIPTION": "湛江市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4409",
+            "DESCRIPTION": "茂名市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4412",
+            "DESCRIPTION": "肇庆市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4413",
+            "DESCRIPTION": "惠州市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4414",
+            "DESCRIPTION": "梅州市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4415",
+            "DESCRIPTION": "汕尾市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4416",
+            "DESCRIPTION": "河源市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4417",
+            "DESCRIPTION": "阳江市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4418",
+            "DESCRIPTION": "清远市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4419",
+            "DESCRIPTION": "东莞市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4420",
+            "DESCRIPTION": "中山市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4451",
+            "DESCRIPTION": "潮州市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4452",
+            "DESCRIPTION": "揭阳市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4453",
+            "DESCRIPTION": "云浮市",
+            "EXT1": "广东省"
+        },
+        {
+            "CODE": "4500",
+            "DESCRIPTION": "广西壮族自治区",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4501",
+            "DESCRIPTION": "南宁市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4502",
+            "DESCRIPTION": "柳州市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4503",
+            "DESCRIPTION": "桂林市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4504",
+            "DESCRIPTION": "梧州市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4505",
+            "DESCRIPTION": "北海市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4506",
+            "DESCRIPTION": "防城港市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4507",
+            "DESCRIPTION": "钦州市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4508",
+            "DESCRIPTION": "贵港市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4509",
+            "DESCRIPTION": "玉林市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4510",
+            "DESCRIPTION": "百色市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4511",
+            "DESCRIPTION": "贺州市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4512",
+            "DESCRIPTION": "河池市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4513",
+            "DESCRIPTION": "来宾市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4514",
+            "DESCRIPTION": "崇左市",
+            "EXT1": "广西壮族自治区"
+        },
+        {
+            "CODE": "4600",
+            "DESCRIPTION": "海南省",
+            "EXT1": "海南省"
+        },
+        {
+            "CODE": "4601",
+            "DESCRIPTION": "海口市",
+            "EXT1": "海南省"
+        },
+        {
+            "CODE": "4602",
+            "DESCRIPTION": "三亚市",
+            "EXT1": "海南省"
+        },
+        {
+            "CODE": "5000",
+            "DESCRIPTION": "重庆市",
+            "EXT1": "重庆市"
+        },
+        {
+            "CODE": "5100",
+            "DESCRIPTION": "四川省",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5101",
+            "DESCRIPTION": "成都市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5103",
+            "DESCRIPTION": "自贡市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5104",
+            "DESCRIPTION": "攀枝花市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5105",
+            "DESCRIPTION": "泸州市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5106",
+            "DESCRIPTION": "德阳市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5107",
+            "DESCRIPTION": "绵阳市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5108",
+            "DESCRIPTION": "广元市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5109",
+            "DESCRIPTION": "遂宁市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5110",
+            "DESCRIPTION": "内江市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5111",
+            "DESCRIPTION": "乐山市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5113",
+            "DESCRIPTION": "南充市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5114",
+            "DESCRIPTION": "眉山市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5115",
+            "DESCRIPTION": "宜宾市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5116",
+            "DESCRIPTION": "广安市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5117",
+            "DESCRIPTION": "达州市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5118",
+            "DESCRIPTION": "雅安市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5119",
+            "DESCRIPTION": "巴中市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5120",
+            "DESCRIPTION": "资阳市",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5132",
+            "DESCRIPTION": "阿坝藏族羌族自治州",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5133",
+            "DESCRIPTION": "甘孜藏族自治州",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5134",
+            "DESCRIPTION": "凉山彝族自治州",
+            "EXT1": "四川省"
+        },
+        {
+            "CODE": "5200",
+            "DESCRIPTION": "贵州省",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5201",
+            "DESCRIPTION": "贵阳市",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5202",
+            "DESCRIPTION": "六盘水市",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5203",
+            "DESCRIPTION": "遵义市",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5204",
+            "DESCRIPTION": "安顺市",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5222",
+            "DESCRIPTION": "铜仁地区",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5223",
+            "DESCRIPTION": "黔西南布依族苗族自治州",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5224",
+            "DESCRIPTION": "毕节地区",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5226",
+            "DESCRIPTION": "黔东南苗族侗族自治州",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5227",
+            "DESCRIPTION": "黔南布依族苗族自治州",
+            "EXT1": "贵州省"
+        },
+        {
+            "CODE": "5300",
+            "DESCRIPTION": "云南省",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5301",
+            "DESCRIPTION": "昆明市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5303",
+            "DESCRIPTION": "曲靖市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5304",
+            "DESCRIPTION": "玉溪市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5305",
+            "DESCRIPTION": "保山市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5306",
+            "DESCRIPTION": "昭通市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5307",
+            "DESCRIPTION": "丽江市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5308",
+            "DESCRIPTION": "普洱市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5309",
+            "DESCRIPTION": "临沧市",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5323",
+            "DESCRIPTION": "楚雄彝族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5325",
+            "DESCRIPTION": "红河哈尼族彝族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5326",
+            "DESCRIPTION": "文山壮族苗族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5328",
+            "DESCRIPTION": "西双版纳傣族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5329",
+            "DESCRIPTION": "大理白族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5331",
+            "DESCRIPTION": "德宏傣族景颇族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5333",
+            "DESCRIPTION": "怒江傈僳族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5334",
+            "DESCRIPTION": "迪庆藏族自治州",
+            "EXT1": "云南省"
+        },
+        {
+            "CODE": "5400",
+            "DESCRIPTION": "西藏自治区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5401",
+            "DESCRIPTION": "拉萨市",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5421",
+            "DESCRIPTION": "昌都地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5422",
+            "DESCRIPTION": "山南地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5423",
+            "DESCRIPTION": "日喀则地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5424",
+            "DESCRIPTION": "那曲地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5425",
+            "DESCRIPTION": "阿里地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "5426",
+            "DESCRIPTION": "林芝地区",
+            "EXT1": "西藏自治区"
+        },
+        {
+            "CODE": "6100",
+            "DESCRIPTION": "陕西省",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6101",
+            "DESCRIPTION": "西安市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6102",
+            "DESCRIPTION": "铜川市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6103",
+            "DESCRIPTION": "宝鸡市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6104",
+            "DESCRIPTION": "咸阳市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6105",
+            "DESCRIPTION": "渭南市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6106",
+            "DESCRIPTION": "延安市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6107",
+            "DESCRIPTION": "汉中市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6108",
+            "DESCRIPTION": "榆林市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6109",
+            "DESCRIPTION": "安康市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6110",
+            "DESCRIPTION": "商洛市",
+            "EXT1": "陕西省"
+        },
+        {
+            "CODE": "6200",
+            "DESCRIPTION": "甘肃省",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6201",
+            "DESCRIPTION": "兰州市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6202",
+            "DESCRIPTION": "嘉峪关市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6203",
+            "DESCRIPTION": "金昌市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6204",
+            "DESCRIPTION": "白银市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6205",
+            "DESCRIPTION": "天水市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6206",
+            "DESCRIPTION": "武威市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6207",
+            "DESCRIPTION": "张掖市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6208",
+            "DESCRIPTION": "平凉市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6209",
+            "DESCRIPTION": "酒泉市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6210",
+            "DESCRIPTION": "庆阳市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6211",
+            "DESCRIPTION": "定西市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6212",
+            "DESCRIPTION": "陇南市",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6229",
+            "DESCRIPTION": "临夏回族自治州",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6230",
+            "DESCRIPTION": "甘南藏族自治州",
+            "EXT1": "甘肃省"
+        },
+        {
+            "CODE": "6300",
+            "DESCRIPTION": "青海省",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6301",
+            "DESCRIPTION": "西宁市",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6321",
+            "DESCRIPTION": "海东地区",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6322",
+            "DESCRIPTION": "海北藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6323",
+            "DESCRIPTION": "黄南藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6325",
+            "DESCRIPTION": "海南藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6326",
+            "DESCRIPTION": "果洛藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6327",
+            "DESCRIPTION": "玉树藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6328",
+            "DESCRIPTION": "海西蒙古族藏族自治州",
+            "EXT1": "青海省"
+        },
+        {
+            "CODE": "6400",
+            "DESCRIPTION": "宁夏回族自治区",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6401",
+            "DESCRIPTION": "银川市",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6402",
+            "DESCRIPTION": "石嘴山市",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6403",
+            "DESCRIPTION": "吴忠市",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6404",
+            "DESCRIPTION": "固原市",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6405",
+            "DESCRIPTION": "中卫市",
+            "EXT1": "宁夏回族自治区"
+        },
+        {
+            "CODE": "6500",
+            "DESCRIPTION": "新疆维吾尔自治区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6501",
+            "DESCRIPTION": "乌鲁木齐市",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6502",
+            "DESCRIPTION": "克拉玛依市",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6521",
+            "DESCRIPTION": "吐鲁番地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6522",
+            "DESCRIPTION": "哈密地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6523",
+            "DESCRIPTION": "昌吉回族自治州",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6527",
+            "DESCRIPTION": "博尔塔拉蒙古自治州",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6528",
+            "DESCRIPTION": "巴音郭楞蒙古自治州",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6529",
+            "DESCRIPTION": "阿克苏地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6530",
+            "DESCRIPTION": "克孜勒苏柯尔克孜自治州",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6531",
+            "DESCRIPTION": "喀什地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6532",
+            "DESCRIPTION": "和田地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6540",
+            "DESCRIPTION": "伊犁哈萨克自治州",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6542",
+            "DESCRIPTION": "塔城地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "6543",
+            "DESCRIPTION": "阿勒泰地区",
+            "EXT1": "新疆维吾尔自治区"
+        },
+        {
+            "CODE": "7100",
+            "DESCRIPTION": "台湾省",
+            "EXT1": "台湾省"
+        },
+        {
+            "CODE": "8100",
+            "DESCRIPTION": "香港特别行政区",
+            "EXT1": "香港特别行政区"
+        },
+        {
+            "CODE": "8200",
+            "DESCRIPTION": "澳门特别行政区",
+            "EXT1": "澳门特别行政区"
+        }
+    ]
+}
